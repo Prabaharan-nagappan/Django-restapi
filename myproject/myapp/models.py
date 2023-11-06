@@ -1,4 +1,3 @@
-# Create your models here.
 # myapp/models.py
 from django.db import models
 
