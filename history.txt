@@ -1,0 +1,5 @@
+django-admin startproject project
+pip install -r requirements.txt 
+django-admin startproject project
+cd project/
+python3 manage.py startapp api_app
